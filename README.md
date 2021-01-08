@@ -1,6 +1,4 @@
 # my-first-repo
 Just for testing and learning purpose from Udemy.
 
-README.md file was just editted manually.
-
-This file was modified locally.
+This line was modified manually during conflicts resolution.
